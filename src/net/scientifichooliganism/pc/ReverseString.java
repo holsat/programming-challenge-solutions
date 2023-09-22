@@ -1,6 +1,7 @@
 package net.scientifichooliganism.pc;
 
 //https://gist.github.com/johnny-b-goode/beaf005df0c54a765f00
+//https://github.com/holsat/programming-challenges/blob/main/reverse_string.md
 
 public class ReverseString {
 	public static String reverse1 (String in1) {

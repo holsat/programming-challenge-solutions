@@ -1,6 +1,7 @@
 package net.scientifichooliganism.pc;
 
 //https://gist.github.com/johnny-b-goode/ae088a15f4d31f57f991e5be7af3376e
+//https://github.com/holsat/programming-challenges/blob/main/add_two_large_integers.md
 
 public class AddTwoLargeIntegers {
 	public static String add (String in1, String in2) {

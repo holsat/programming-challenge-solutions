@@ -1,6 +1,7 @@
 package net.scientifichooliganism.pc;
 
 //https://gist.github.com/johnny-b-goode/45919cda4b46a7c44d6bad3bb5abee89
+//https://github.com/holsat/programming-challenges/blob/main/fibonacci_numbers.md
 
 public class FibonacciNumbers {
 	public static void fibonacciNumbers () {

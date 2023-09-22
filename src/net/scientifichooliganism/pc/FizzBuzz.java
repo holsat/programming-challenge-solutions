@@ -1,6 +1,7 @@
 package net.scientifichooliganism.pc;
 
 //https://gist.github.com/johnny-b-goode/6761a9ee4b12c3147b5a66c03dd3492c
+//https://github.com/holsat/programming-challenges/blob/main/fizz_buzz.md
 
 public class FizzBuzz {
 	public static void fizzBuzz () {

@@ -1,6 +1,7 @@
 package net.scientifichooliganism.pc;
 
 //https://gist.github.com/johnny-b-goode/2bfab417e88ca2f1dc0613c3e539d8b4
+//https://github.com/holsat/programming-challenges/blob/main/factoring.md
 
 public class Factoring {
 	public static String factor1 (int in) {

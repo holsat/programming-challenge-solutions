@@ -1,6 +1,7 @@
 package net.scientifichooliganism.pc;
 
 //https://gist.github.com/johnny-b-goode/152784513851f28e9bec
+//https://github.com/holsat/programming-challenges/blob/main/euclids_algorithm.md
 
 public class Euclid {
 
